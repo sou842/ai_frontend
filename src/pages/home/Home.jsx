@@ -20,6 +20,7 @@ const Home = () => {
   return (
     <Box>
       <Box position={'fixed'} bg={'rgb(227, 227, 227)'} w={'100%'} zIndex={'100'} bottom={'0'} pt={['10px','17px','20px']} pb={['10px','17px','20px']}>
+      <a href="https://cosmofeed.com/vp/64a1a4abe630720020e0fff9" target="_blanck">
       <Button
             color={"white"}
             bgGradient="linear(to-l, red, yellow)"
@@ -30,8 +31,9 @@ const Home = () => {
             display={'block'}
             m={'auto'}
           >
-            GET INSTANT ACCESS ₹ 99{" "}
+            GET INSTANT ACCESS ₹ 49{" "}
           </Button>
+          </a>
       </Box>
       <Box className="banner">
         {/* banner headder */}
@@ -72,6 +74,7 @@ const Home = () => {
               </Button>
             </Box>
             <Box m={"20px"}>
+            <a href="https://cosmofeed.com/vp/64a1a4abe630720020e0fff9" target="_blanck">
               <Button
                 color={"white"}
                 bgGradient="linear(to-l, red, yellow)"
@@ -81,11 +84,12 @@ const Home = () => {
                 h={"50px"}
                 mt={'20px'}
               >
-                ONLY ₹ 99{" "}
+                ONLY ₹ 49{" "}
                 <Box pl={"20px"} as="span">
                   <BsFillArrowRightSquareFill />
                 </Box>
               </Button>
+              </a>
               <Text textAlign={'center'} fontWeight={'bold'} mt={'25px'} fontSize={['23px', '27px', '30px', '26px']}>Only <u style={{color:'red'}}>3</u> Bundle Left...</Text>
             </Box>
           </Box>
@@ -229,6 +233,7 @@ const Home = () => {
         </Box>
 
         <Box width={'100%'}>
+        <a href="https://cosmofeed.com/vp/64a1a4abe630720020e0fff9" target="_blanck">
           <Button
             color={"white"}
             bgGradient="linear(to-l, red, yellow)"
@@ -239,8 +244,9 @@ const Home = () => {
             m={'auto'}
             mt={'1cm'}
           >
-            GET INSTANT ACCESS ₹ 99{" "}
+            GET INSTANT ACCESS ₹ 49{" "}
           </Button>
+          </a>
         </Box>
       </Box>
       {/* some sample */}
@@ -264,6 +270,7 @@ const Home = () => {
           </div>
       </Box>
       <Box width={['70%','60%','50%']} margin={'auto'}>
+      <a href="https://cosmofeed.com/vp/64a1a4abe630720020e0fff9" target="_blanck">
           <Button
             color={"white"}
             bgGradient="linear(to-l, red, yellow)"
@@ -274,8 +281,9 @@ const Home = () => {
             m={'auto'}
             mt={'1cm'}
           >
-            GET INSTANT ACCESS ₹ 99{" "}
+            GET INSTANT ACCESS ₹ 49{" "}
           </Button>
+          </a>
         </Box>
         {/* FAQ */}
         <Box width={['92%']} m={'auto'} borderRadius={'20px'} mt={'1.5cm'} mb={'1cm'}>
